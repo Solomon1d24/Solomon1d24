@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am Chow Sheung Lam Solomon, currently being employed as 
+IT consultant by FDM Group and being placed in a Chinese
+security broker CLSA.
+
+I am currently working towards to be a good Java developer.
+Feel free to reach me via LinkedIn if there is any opportunities or want to be friends
+
+![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solomon1d24&show_icons=true&theme=radical)
+
 <!--
 **Solomon1d24/Solomon1d24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
